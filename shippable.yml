@@ -3,9 +3,7 @@ language: python
 # Version number
 python:
   - 2.7 #.12
-  - 3.5 #.2 
   - 3.6 #.5 
-  - 3.7 #.0
 
 runtime:
   nodePool: Arm64
@@ -18,3 +16,4 @@ build:
     
   ci:
     - python -V
+    - pip --version
