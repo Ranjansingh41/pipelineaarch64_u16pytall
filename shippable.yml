@@ -3,7 +3,7 @@ language: python
 # Version number
 python:
   - 2.7 #.12
-  - 3.6 #.5 
+  - 3.7 #.5 
 
 runtime:
   nodePool: Arm64
