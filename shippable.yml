@@ -18,3 +18,4 @@ build:
     - python -V
     - pip --version
     - java -version
+    - node --version
