@@ -17,3 +17,4 @@ build:
   ci:
     - python -V
     - pip --version
+    - java -version
